@@ -11,3 +11,16 @@ C:\Users\marcelo\Downloads\projeto-teste\projeto-teste\obj\Debug\netcoreapp3.1\p
 C:\Users\marcelo\Downloads\projeto-teste\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.dll
 C:\Users\marcelo\Downloads\projeto-teste\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.pdb
 C:\Users\marcelo\Downloads\projeto-teste\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.genruntimeconfig.cache
+C:\Users\marcelo\Downloads\temp\curso-git\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.exe
+C:\Users\marcelo\Downloads\temp\curso-git\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.deps.json
+C:\Users\marcelo\Downloads\temp\curso-git\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.runtimeconfig.json
+C:\Users\marcelo\Downloads\temp\curso-git\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.runtimeconfig.dev.json
+C:\Users\marcelo\Downloads\temp\curso-git\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.dll
+C:\Users\marcelo\Downloads\temp\curso-git\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.pdb
+C:\Users\marcelo\Downloads\temp\curso-git\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.csprojAssemblyReference.cache
+C:\Users\marcelo\Downloads\temp\curso-git\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.AssemblyInfoInputs.cache
+C:\Users\marcelo\Downloads\temp\curso-git\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.AssemblyInfo.cs
+C:\Users\marcelo\Downloads\temp\curso-git\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.csproj.CoreCompileInputs.cache
+C:\Users\marcelo\Downloads\temp\curso-git\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.dll
+C:\Users\marcelo\Downloads\temp\curso-git\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.pdb
+C:\Users\marcelo\Downloads\temp\curso-git\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.genruntimeconfig.cache

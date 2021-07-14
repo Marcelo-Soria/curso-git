@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B+OtEb4R2CtnvHyE3cXh/VUe+R1eOfU69XYU0X02C9XE7P4DSQpEKvnpqElDfgHZrhNYXFg3QuiOFZ/mccgDtQ==",
+  "dgSpecHash": "kggZhlf/LG8EalpbTXwHndv/LGPpCLC4qTdyDvo6OaeC1W0IS8e73mYX1RFPv9En0vi97x7f8qx7SAqqxrfHeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marcelo\\Downloads\\projeto-teste\\projeto-teste\\projeto-teste.csproj",
+  "projectFilePath": "C:\\Users\\marcelo\\Downloads\\temp\\curso-git\\projeto-teste\\projeto-teste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marcelo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
   ],
